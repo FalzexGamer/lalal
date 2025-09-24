@@ -329,10 +329,31 @@ $is_positive = $price_change > 0;
             </div>
             <div class="product-grid">
                 
-                <?php while ($row = mysqli_fetch_array($query)): ?>
+                <?php while ($row = mysqli_fetch_array($query)): 
+                    // Check for additional images from subdesign_image table
+                    $subcategory = $row['subcategory'];
+                    $design = $row['design'];
+                    
+                    // Query subdesign_image table for matching images
+                    $image_query = mysqli_query($conn, "SELECT img FROM subdesign_image WHERE subdesign='$design' AND category='$subcategory' ORDER BY recno DESC LIMIT 1");
+                    $image_result = false;
+                    if ($image_query) {
+                        $image_result = mysqli_fetch_array($image_query);
+                    }
+                    
+                    // Determine which image to use
+                    $product_image = '';
+                    if ($image_result && !empty($image_result['img'])) {
+                        $product_image = $image_result['img'];
+                    } elseif (!empty($row['img'])) {
+                        $product_image = $row['img'];
+                    } else {
+                        $product_image = 'product_image/noimage.jpg';
+                    }
+                ?>
                 <a href="product-details-luxury.php?id=<?php echo $row['recno']; ?>" class="product-card featured-card">
                     <div class="product-image-container">
-                        <img src="<?php echo !empty($row['gambar']) ? $row['img'] : 'img/noimage.jpg'; ?>" 
+                        <img src="product_image/<?php echo $product_image; ?>" 
                              alt="<?php echo htmlspecialchars($row['marhun']); ?>" class="product-image">
                         <div class="product-overlay">
                             <i class="fas fa-eye"></i>

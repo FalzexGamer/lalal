@@ -428,15 +428,15 @@ $grand_total = $total_amount + $postage + $fee;
                     </div>
                     <div class="d-flex flex-column align-items-end gap-2">
                         <div class="quantity-controls">
-                            <button class="quantity-btn" onclick="updateQuantity(<?php echo $item['nosiri']; ?>, -1)">
+                            <button class="quantity-btn" onclick="updateQuantity('<?php echo $item['nosiri']; ?>', -1)">
                                 <i class="fas fa-minus"></i>
                             </button>
                             <input type="text" class="quantity-input" value="1" readonly>
-                            <button class="quantity-btn" onclick="updateQuantity(<?php echo $item['nosiri']; ?>, 1)">
+                            <button class="quantity-btn" onclick="updateQuantity('<?php echo $item['nosiri']; ?>', 1)">
                                 <i class="fas fa-plus"></i>
                             </button>
                         </div>
-                        <button class="delete-btn" onclick="removeItem(<?php echo $item['nosiri']; ?>)">
+                        <button class="delete-btn" onclick="removeItem('<?php echo $item['nosiri']; ?>')">
                             <i class="fas fa-trash"></i> Remove
                         </button>
                     </div>
