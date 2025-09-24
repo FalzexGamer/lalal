@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597907318993",
+    "project_id": "nasi-ayam-warisan",
+    "storage_bucket": "nasi-ayam-warisan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597907318993:android:18a6810065a43ea9507df0",
+        "android_client_info": {
+          "package_name": "com.nasiayamwarisan.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8rl_C4Tr1R3iVm7EmBfTe5SAmhFFutlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
