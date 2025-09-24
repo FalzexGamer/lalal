@@ -10,6 +10,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
     exit();
 }
 
+
 // Include database connection
 include('inc/dt.php');
 include('inc/sesi.php');
