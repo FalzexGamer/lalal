@@ -1,0 +1,922 @@
+[08-Jan-2025 13:02:38 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/madiimgo/public_html/lalalgold.com/apps/products.php:224
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/products.php(224): mysqli_fetch_array()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 224
+[08-Jan-2025 13:02:46 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/madiimgo/public_html/lalalgold.com/apps/products.php:224
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/products.php(224): mysqli_fetch_array()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 224
+[08-Jan-2025 13:02:50 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/madiimgo/public_html/lalalgold.com/apps/products.php:224
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/products.php(224): mysqli_fetch_array()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 224
+[08-Jan-2025 13:02:54 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/madiimgo/public_html/lalalgold.com/apps/products.php:224
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/products.php(224): mysqli_fetch_array()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 224
+[08-Jan-2025 13:02:55 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "type" in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 11
+[08-Jan-2025 13:02:55 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/madiimgo/public_html/lalalgold.com/apps/products.php:224
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/products.php(224): mysqli_fetch_array()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 224
+[08-Jan-2025 13:03:04 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/madiimgo/public_html/lalalgold.com/apps/products.php:224
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/products.php(224): mysqli_fetch_array()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 224
+[08-Jan-2025 13:03:06 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/madiimgo/public_html/lalalgold.com/apps/products.php:224
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/products.php(224): mysqli_fetch_array()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 224
+[08-Jan-2025 13:03:14 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/madiimgo/public_html/lalalgold.com/apps/products.php:224
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/products.php(224): mysqli_fetch_array()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 224
+[08-Jan-2025 15:03:19 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $bill_id in /home2/madiimgo/public_html/lalalgold.com/apps/cart.php on line 294
+[08-Jan-2025 15:07:40 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $bill_id in /home2/madiimgo/public_html/lalalgold.com/apps/cart.php on line 294
+[09-Jan-2025 08:37:32 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "username" in /home2/madiimgo/public_html/lalalgold.com/apps/forgot_password.php on line 78
+[26-May-2025 12:59:45 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $success in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 822
+[26-May-2025 12:59:45 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $product in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 826
+[26-May-2025 12:59:49 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $success in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 822
+[26-May-2025 12:59:49 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $product in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 826
+[03-Jul-2025 15:00:33 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $success in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 822
+[03-Jul-2025 15:00:33 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $product in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 826
+[03-Jul-2025 15:00:43 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $success in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 822
+[03-Jul-2025 15:00:43 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $product in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 826
+[03-Jul-2025 15:01:08 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $success in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 822
+[03-Jul-2025 15:01:08 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $product in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 826
+[03-Jul-2025 15:03:00 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $success in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 822
+[03-Jul-2025 15:03:00 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $product in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 826
+[03-Jul-2025 15:03:09 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $success in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 822
+[03-Jul-2025 15:03:09 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $product in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 826
+[03-Jul-2025 15:03:31 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $success in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 822
+[03-Jul-2025 15:03:31 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $product in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 826
+[03-Jul-2025 15:03:36 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $success in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 822
+[03-Jul-2025 15:03:36 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $product in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 826
+[03-Jul-2025 15:03:45 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $success in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 822
+[03-Jul-2025 15:03:45 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $product in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 826
+[03-Jul-2025 15:04:00 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $success in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 822
+[03-Jul-2025 15:04:00 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $product in /home2/madiimgo/public_html/lalalgold.com/apps/products.php on line 826
+[28-Aug-2025 07:33:15 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/index-luxury.php(65): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 07:33:45 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/index-luxury.php(65): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 07:34:35 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/index-luxury.php(65): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 07:34:37 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/index-luxury.php(65): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 07:36:53 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/index-luxury.php(65): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 07:37:27 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/index-luxury.php(65): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 07:37:28 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/index-luxury.php(65): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 07:37:43 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/index-luxury.php(65): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:40:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:40:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:72
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(30): getUserNotifications()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 72
+[27-Aug-2025 23:40:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:72
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(30): getUserNotifications()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 72
+[27-Aug-2025 23:40:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:72
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(30): getUserNotifications()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 72
+[27-Aug-2025 23:41:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:42:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:42:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:42:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:72
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(30): getUserNotifications()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 72
+[27-Aug-2025 23:42:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 07:42:35 Asia/Kuala_Lumpur] Login attempt - Email: 0148279126, Remember: No
+[28-Aug-2025 07:42:35 Asia/Kuala_Lumpur] Login query - Found user: Yes
+[28-Aug-2025 07:42:35 Asia/Kuala_Lumpur] User data: Array
+(
+    [recno] => 2346
+    [username] => 911210035197
+    [nofon] => 0148279126
+    [email] => hariz1012@gmail.com
+    [password] => 123
+    [password_hash] => $argon2id$v=19$m=65536,t=4,p=3$U243d3RNM2VxSk92dWlxeA$qJQm/0QY2TMeSWVFTzbhODDVaRfYnDthfw3QnthwxNA
+)
+
+[28-Aug-2025 07:42:35 Asia/Kuala_Lumpur] Login successful - User ID: 2346, Username: 911210035197
+[27-Aug-2025 23:42:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:42:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:72
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(30): getUserNotifications()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 72
+[27-Aug-2025 23:43:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:43:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:72
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(30): getUserNotifications()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 72
+[27-Aug-2025 23:43:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:44:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:44:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:72
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(30): getUserNotifications()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 72
+[28-Aug-2025 07:46:09 Asia/Kuala_Lumpur] Login attempt - Email: 0148279126, Remember: No
+[28-Aug-2025 07:46:09 Asia/Kuala_Lumpur] Login query - Found user: Yes
+[28-Aug-2025 07:46:09 Asia/Kuala_Lumpur] User data: Array
+(
+    [recno] => 2346
+    [username] => 911210035197
+    [nofon] => 0148279126
+    [email] => hariz1012@gmail.com
+    [password] => 123
+    [password_hash] => $argon2id$v=19$m=65536,t=4,p=3$U243d3RNM2VxSk92dWlxeA$qJQm/0QY2TMeSWVFTzbhODDVaRfYnDthfw3QnthwxNA
+)
+
+[28-Aug-2025 07:46:10 Asia/Kuala_Lumpur] Login successful - User ID: 2346, Username: 911210035197
+[27-Aug-2025 23:46:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:46:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 07:46:30 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/mypurchase.php(56): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:46:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:46:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:46:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:47:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:47:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:47:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:72
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(30): getUserNotifications()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 72
+[28-Aug-2025 07:47:53 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/mypurchase.php(56): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:48:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 07:48:27 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/mypurchase.php(56): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:49:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:49:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:52:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:52:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:53:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:53:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:55:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:55:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:55:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:55:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:55:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:55:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:56:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:56:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:56:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[27-Aug-2025 23:57:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 15:02:14 Asia/Kuala_Lumpur] Login attempt - Email: 0148279126, Remember: No
+[28-Aug-2025 15:02:14 Asia/Kuala_Lumpur] Login query - Found user: Yes
+[28-Aug-2025 15:02:14 Asia/Kuala_Lumpur] User data: Array
+(
+    [recno] => 2346
+    [username] => HARIZ
+    [nofon] => 0148279126
+    [email] => hariz1012@gmail.com
+    [password] => 123
+    [password_hash] => $argon2id$v=19$m=65536,t=4,p=3$U243d3RNM2VxSk92dWlxeA$qJQm/0QY2TMeSWVFTzbhODDVaRfYnDthfw3QnthwxNA
+)
+
+[28-Aug-2025 15:02:15 Asia/Kuala_Lumpur] Login successful - User ID: 2346, Username: HARIZ
+[28-Aug-2025 07:02:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 07:02:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 07:02:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 07:02:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 16:20:07 Asia/Kuala_Lumpur] Login attempt - Email: 0175522440, Remember: No
+[28-Aug-2025 16:20:07 Asia/Kuala_Lumpur] Login query - Found user: No
+[28-Aug-2025 16:20:07 Asia/Kuala_Lumpur] Login failed - No user found for identifier: 0175522440
+[28-Aug-2025 16:20:19 Asia/Kuala_Lumpur] Login attempt - Email: 0148279126, Remember: No
+[28-Aug-2025 16:20:19 Asia/Kuala_Lumpur] Login query - Found user: Yes
+[28-Aug-2025 16:20:19 Asia/Kuala_Lumpur] User data: Array
+(
+    [recno] => 2346
+    [username] => HARIZ
+    [nofon] => 0148279126
+    [email] => hariz1012@gmail.com
+    [password] => 123
+    [password_hash] => $argon2id$v=19$m=65536,t=4,p=3$U243d3RNM2VxSk92dWlxeA$qJQm/0QY2TMeSWVFTzbhODDVaRfYnDthfw3QnthwxNA
+)
+
+[28-Aug-2025 16:20:19 Asia/Kuala_Lumpur] Login successful - User ID: 2346, Username: HARIZ
+[28-Aug-2025 08:20:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 08:20:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 08:20:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 08:39:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 08:40:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 08:40:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 08:40:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 17:04:21 Asia/Kuala_Lumpur] Login attempt - Email: 0193604969, Remember: No
+[28-Aug-2025 17:04:21 Asia/Kuala_Lumpur] Login query - Found user: Yes
+[28-Aug-2025 17:04:21 Asia/Kuala_Lumpur] User data: Array
+(
+    [recno] => 2247
+    [username] => 555555
+    [nofon] => 0193604969
+    [email] => -
+    [password] => 123
+    [password_hash] => 
+)
+
+[28-Aug-2025 17:04:21 Asia/Kuala_Lumpur] Login successful - User ID: 2247, Username: 555555
+[28-Aug-2025 09:04:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 09:05:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 17:06:40 Asia/Kuala_Lumpur] Login attempt - Email: DATOVIKNESS, Remember: Yes
+[28-Aug-2025 17:06:40 Asia/Kuala_Lumpur] Login query - Found user: Yes
+[28-Aug-2025 17:06:40 Asia/Kuala_Lumpur] User data: Array
+(
+    [recno] => 2247
+    [username] => DATOVIKNESS
+    [nofon] => 0193604969
+    [email] => hariz1012@gmail.com
+    [password] => 123
+    [password_hash] => $argon2id$v=19$m=65536,t=4,p=3$OEhLQWlQa3FRMDBEZWJSWA$fBSA72/v/LoXFjz1RJwd2eX0fJI5WzwzNx1xz9yL6Mc
+)
+
+[28-Aug-2025 17:06:40 Asia/Kuala_Lumpur] Login successful - User ID: 2247, Username: DATOVIKNESS
+[28-Aug-2025 09:06:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[28-Aug-2025 17:09:43 Asia/Kuala_Lumpur] Login attempt - Email: DATOVIKNESS, Remember: No
+[28-Aug-2025 17:09:43 Asia/Kuala_Lumpur] Login query - Found user: Yes
+[28-Aug-2025 17:09:43 Asia/Kuala_Lumpur] User data: Array
+(
+    [recno] => 2247
+    [username] => DATOVIKNESS
+    [nofon] => 0193604969
+    [email] => hariz1012@gmail.com
+    [password] => 123
+    [password_hash] => $argon2id$v=19$m=65536,t=4,p=3$OEhLQWlQa3FRMDBEZWJSWA$fBSA72/v/LoXFjz1RJwd2eX0fJI5WzwzNx1xz9yL6Mc
+)
+
+[28-Aug-2025 17:09:43 Asia/Kuala_Lumpur] Login successful - User ID: 2247, Username: DATOVIKNESS
+[28-Aug-2025 09:09:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[02-Sep-2025 10:11:33 Asia/Kuala_Lumpur] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/madiimgo/public_html/lalalgold.com/apps/forgot_password.php on line 352
+[05-Sep-2025 22:22:30 Asia/Kuala_Lumpur] Login attempt - Email: HARIZ, Remember: No
+[05-Sep-2025 22:22:30 Asia/Kuala_Lumpur] Login query - Found user: Yes
+[05-Sep-2025 22:22:30 Asia/Kuala_Lumpur] User data: Array
+(
+    [recno] => 2346
+    [username] => HARIZ
+    [nofon] => 0148279126
+    [email] => hariz1012@gmail.com
+    [password] => 123
+    [password_hash] => $argon2id$v=19$m=65536,t=4,p=3$U243d3RNM2VxSk92dWlxeA$qJQm/0QY2TMeSWVFTzbhODDVaRfYnDthfw3QnthwxNA
+)
+
+[05-Sep-2025 22:22:30 Asia/Kuala_Lumpur] Login successful - User ID: 2346, Username: HARIZ
+[05-Sep-2025 14:22:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[05-Sep-2025 14:22:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[05-Sep-2025 22:24:20 Asia/Kuala_Lumpur] Login attempt - Email: HARIZ, Remember: No
+[05-Sep-2025 22:24:20 Asia/Kuala_Lumpur] Login query - Found user: Yes
+[05-Sep-2025 22:24:20 Asia/Kuala_Lumpur] User data: Array
+(
+    [recno] => 2346
+    [username] => HARIZ
+    [nofon] => 0148279126
+    [email] => hariz1012@gmail.com
+    [password] => 123
+    [password_hash] => $argon2id$v=19$m=65536,t=4,p=3$U243d3RNM2VxSk92dWlxeA$qJQm/0QY2TMeSWVFTzbhODDVaRfYnDthfw3QnthwxNA
+)
+
+[05-Sep-2025 22:24:20 Asia/Kuala_Lumpur] Login successful - User ID: 2346, Username: HARIZ
+[05-Sep-2025 14:24:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[05-Sep-2025 22:28:52 Asia/Kuala_Lumpur] Login attempt - Email: HARIZ, Remember: No
+[05-Sep-2025 22:28:52 Asia/Kuala_Lumpur] Login query - Found user: Yes
+[05-Sep-2025 22:28:52 Asia/Kuala_Lumpur] User data: Array
+(
+    [recno] => 2346
+    [username] => HARIZ
+    [nofon] => 0148279126
+    [email] => hariz1012@gmail.com
+    [password] => 123
+    [password_hash] => $argon2id$v=19$m=65536,t=4,p=3$U243d3RNM2VxSk92dWlxeA$qJQm/0QY2TMeSWVFTzbhODDVaRfYnDthfw3QnthwxNA
+)
+
+[05-Sep-2025 22:28:52 Asia/Kuala_Lumpur] Login successful - User ID: 2346, Username: HARIZ
+[05-Sep-2025 14:28:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[07-Sep-2025 03:56:54 Asia/Kuala_Lumpur] Login attempt - Email: &#039;=&#039;&#039;OR&#039;@gmail.com, Remember: Yes
+[07-Sep-2025 03:57:05 Asia/Kuala_Lumpur] Login attempt - Email: &#039; or 1=1 limit 1 -- -+, Remember: No
+[09-Sep-2025 13:21:43 Asia/Kuala_Lumpur] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/madiimgo/public_html/lalalgold.com/apps/forgot_password.php on line 352
+[09-Sep-2025 13:21:57 Asia/Kuala_Lumpur] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/madiimgo/public_html/lalalgold.com/apps/forgot_password.php on line 352
+[09-Sep-2025 13:22:13 Asia/Kuala_Lumpur] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/madiimgo/public_html/lalalgold.com/apps/forgot_password.php on line 352
+[09-Sep-2025 15:04:02 Asia/Kuala_Lumpur] Login attempt - Email: TES7057, Remember: No
+[09-Sep-2025 15:04:02 Asia/Kuala_Lumpur] Login query - Found user: Yes
+[09-Sep-2025 15:04:02 Asia/Kuala_Lumpur] User data: Array
+(
+    [recno] => 1526
+    [username] => TES7057
+    [nofon] => 014
+    [email] => -
+    [password] => 123
+    [password_hash] => $argon2id$v=19$m=65536,t=4,p=3$OGVMT216V2lWa0dOUkNLVw$YcSdqQ6SQqsxLcjp91hsrwN9xLexccezWf5cM2YlLwg
+)
+
+[09-Sep-2025 15:04:03 Asia/Kuala_Lumpur] Login successful - User ID: 1526, Username: TES7057
+[09-Sep-2025 07:04:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[09-Sep-2025 07:04:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[09-Sep-2025 07:05:29 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/madiimgo/public_html/lalalgold.com/apps/add_to_cart.php:67
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/add_to_cart.php(67): mysqli_num_rows()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/add_to_cart.php on line 67
+[09-Sep-2025 07:05:34 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/madiimgo/public_html/lalalgold.com/apps/add_to_cart.php:67
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/add_to_cart.php(67): mysqli_num_rows()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/add_to_cart.php on line 67
+[09-Sep-2025 07:05:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[09-Sep-2025 07:05:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[09-Sep-2025 07:05:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[10-Sep-2025 13:05:53 Asia/Kuala_Lumpur] Login attempt - Email: TES7057, Remember: No
+[10-Sep-2025 13:05:53 Asia/Kuala_Lumpur] Login query - Found user: Yes
+[10-Sep-2025 13:05:53 Asia/Kuala_Lumpur] User data: Array
+(
+    [recno] => 1526
+    [username] => TES7057
+    [nofon] => 014
+    [email] => -
+    [password] => 123
+    [password_hash] => $argon2id$v=19$m=65536,t=4,p=3$OGVMT216V2lWa0dOUkNLVw$YcSdqQ6SQqsxLcjp91hsrwN9xLexccezWf5cM2YlLwg
+)
+
+[10-Sep-2025 13:05:53 Asia/Kuala_Lumpur] Login successful - User ID: 1526, Username: TES7057
+[10-Sep-2025 05:05:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[10-Sep-2025 05:11:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:72
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(30): getUserNotifications()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 72
+[10-Sep-2025 05:12:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[10-Sep-2025 05:12:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[10-Sep-2025 05:12:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[10-Sep-2025 05:12:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[10-Sep-2025 05:12:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[10-Sep-2025 05:12:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[10-Sep-2025 05:12:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[10-Sep-2025 05:13:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[10-Sep-2025 05:16:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[10-Sep-2025 05:17:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[10-Sep-2025 05:17:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[10-Sep-2025 05:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[11-Sep-2025 12:01:53 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "nofon" in /home2/madiimgo/public_html/lalalgold.com/apps/inc/sesi.php on line 12
+[11-Sep-2025 12:04:12 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "nofon" in /home2/madiimgo/public_html/lalalgold.com/apps/inc/sesi.php on line 12
+[14-Sep-2025 10:36:06 Asia/Kuala_Lumpur] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/madiimgo/public_html/lalalgold.com/apps/forgot_password.php on line 352
+[17-Sep-2025 15:03:43 Asia/Kuala_Lumpur] Login attempt - Email: TES7057, Remember: No
+[17-Sep-2025 15:03:43 Asia/Kuala_Lumpur] Login query - Found user: Yes
+[17-Sep-2025 15:03:43 Asia/Kuala_Lumpur] User data: Array
+(
+    [recno] => 1526
+    [username] => TES7057
+    [nofon] => 014
+    [email] => -
+    [password] => 123
+    [password_hash] => $argon2id$v=19$m=65536,t=4,p=3$OGVMT216V2lWa0dOUkNLVw$YcSdqQ6SQqsxLcjp91hsrwN9xLexccezWf5cM2YlLwg
+)
+
+[17-Sep-2025 15:03:43 Asia/Kuala_Lumpur] Login successful - User ID: 1526, Username: TES7057
+[17-Sep-2025 07:03:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[17-Sep-2025 07:05:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[17-Sep-2025 07:06:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[17-Sep-2025 07:06:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[18-Sep-2025 10:03:58 Asia/Kuala_Lumpur] Login attempt - Email: TES7057, Remember: No
+[18-Sep-2025 10:03:58 Asia/Kuala_Lumpur] Login query - Found user: Yes
+[18-Sep-2025 10:03:58 Asia/Kuala_Lumpur] User data: Array
+(
+    [recno] => 1526
+    [username] => TES7057
+    [nofon] => 014
+    [email] => -
+    [password] => 123
+    [password_hash] => $argon2id$v=19$m=65536,t=4,p=3$OGVMT216V2lWa0dOUkNLVw$YcSdqQ6SQqsxLcjp91hsrwN9xLexccezWf5cM2YlLwg
+)
+
+[18-Sep-2025 10:03:58 Asia/Kuala_Lumpur] Login successful - User ID: 1526, Username: TES7057
+[18-Sep-2025 02:03:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[18-Sep-2025 02:05:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[18-Sep-2025 02:05:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[18-Sep-2025 02:05:42 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/madiimgo/public_html/lalalgold.com/apps/add_to_cart.php:67
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/add_to_cart.php(67): mysqli_num_rows()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/add_to_cart.php on line 67
+[18-Sep-2025 02:05:43 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/madiimgo/public_html/lalalgold.com/apps/add_to_cart.php:67
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/add_to_cart.php(67): mysqli_num_rows()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/add_to_cart.php on line 67
+[18-Sep-2025 10:08:41 Asia/Kuala_Lumpur] Login attempt - Email: TES7057, Remember: No
+[18-Sep-2025 10:08:41 Asia/Kuala_Lumpur] Login query - Found user: Yes
+[18-Sep-2025 10:08:41 Asia/Kuala_Lumpur] User data: Array
+(
+    [recno] => 1526
+    [username] => TES7057
+    [nofon] => 014
+    [email] => -
+    [password] => 123
+    [password_hash] => $argon2id$v=19$m=65536,t=4,p=3$OGVMT216V2lWa0dOUkNLVw$YcSdqQ6SQqsxLcjp91hsrwN9xLexccezWf5cM2YlLwg
+)
+
+[18-Sep-2025 10:08:41 Asia/Kuala_Lumpur] Login successful - User ID: 1526, Username: TES7057
+[18-Sep-2025 02:08:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[19-Sep-2025 17:25:01 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "nofon" in /home2/madiimgo/public_html/lalalgold.com/apps/inc/sesi.php on line 12
+[19-Sep-2025 17:25:11 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "nofon" in /home2/madiimgo/public_html/lalalgold.com/apps/inc/sesi.php on line 12
+[19-Sep-2025 17:25:56 Asia/Kuala_Lumpur] Login attempt - Email: TES7057, Remember: No
+[19-Sep-2025 17:25:56 Asia/Kuala_Lumpur] Login query - Found user: Yes
+[19-Sep-2025 17:25:56 Asia/Kuala_Lumpur] User data: Array
+(
+    [recno] => 1526
+    [username] => TES7057
+    [nofon] => 014
+    [email] => -
+    [password] => 123
+    [password_hash] => $argon2id$v=19$m=65536,t=4,p=3$OGVMT216V2lWa0dOUkNLVw$YcSdqQ6SQqsxLcjp91hsrwN9xLexccezWf5cM2YlLwg
+)
+
+[19-Sep-2025 17:25:56 Asia/Kuala_Lumpur] Login successful - User ID: 1526, Username: TES7057
+[19-Sep-2025 09:25:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[19-Sep-2025 09:26:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[19-Sep-2025 09:27:09 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/madiimgo/public_html/lalalgold.com/apps/add_to_cart.php:67
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/add_to_cart.php(67): mysqli_num_rows()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/add_to_cart.php on line 67
+[19-Sep-2025 09:27:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[19-Sep-2025 09:30:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[19-Sep-2025 09:30:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[19-Sep-2025 09:30:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:72
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(30): getUserNotifications()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 72
+[19-Sep-2025 09:31:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[19-Sep-2025 09:31:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:72
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(30): getUserNotifications()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 72
+[19-Sep-2025 09:31:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[19-Sep-2025 09:31:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[19-Sep-2025 09:31:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[21-Sep-2025 09:18:47 Asia/Kuala_Lumpur] Login attempt - Email: LALAL, Remember: No
+[21-Sep-2025 09:18:47 Asia/Kuala_Lumpur] Login query - Found user: No
+[21-Sep-2025 09:18:47 Asia/Kuala_Lumpur] Login failed - No user found for identifier: LALAL
+[21-Sep-2025 09:19:14 Asia/Kuala_Lumpur] Login attempt - Email: LAL7057, Remember: No
+[21-Sep-2025 09:19:14 Asia/Kuala_Lumpur] Login query - Found user: Yes
+[21-Sep-2025 09:19:14 Asia/Kuala_Lumpur] User data: Array
+(
+    [recno] => 1523
+    [username] => LAL7057
+    [nofon] => 0176081053
+    [email] => -
+    [password] => 123
+    [password_hash] => $argon2id$v=19$m=65536,t=4,p=3$UFFaUmd4SHFialBlVFhiSw$kHU0RhNnXyOJYleCJmAu9Dbdlx1U3gFSJUrf7amxzkk
+)
+
+[21-Sep-2025 09:19:14 Asia/Kuala_Lumpur] Login failed - Invalid password for user: LAL7057
+[21-Sep-2025 09:19:18 Asia/Kuala_Lumpur] Login attempt - Email: LAL7057, Remember: No
+[21-Sep-2025 09:19:18 Asia/Kuala_Lumpur] Login query - Found user: Yes
+[21-Sep-2025 09:19:18 Asia/Kuala_Lumpur] User data: Array
+(
+    [recno] => 1523
+    [username] => LAL7057
+    [nofon] => 0176081053
+    [email] => -
+    [password] => 123
+    [password_hash] => $argon2id$v=19$m=65536,t=4,p=3$UFFaUmd4SHFialBlVFhiSw$kHU0RhNnXyOJYleCJmAu9Dbdlx1U3gFSJUrf7amxzkk
+)
+
+[21-Sep-2025 09:19:18 Asia/Kuala_Lumpur] Login successful - User ID: 1523, Username: LAL7057
+[21-Sep-2025 01:19:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[21-Sep-2025 01:19:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:72
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(30): getUserNotifications()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 72
+[21-Sep-2025 01:19:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:72
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(30): getUserNotifications()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 72
+[21-Sep-2025 01:19:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:72
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(30): getUserNotifications()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 72
+[21-Sep-2025 01:22:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[21-Sep-2025 01:22:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php:98
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/notification_ajax.php(58): getUnreadNotificationCount()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/inc/notification_functions.php on line 98
+[21-Sep-2025 01:25:21 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/madiimgo/public_html/lalalgold.com/apps/add_to_cart.php:67
+Stack trace:
+#0 /home2/madiimgo/public_html/lalalgold.com/apps/add_to_cart.php(67): mysqli_num_rows()
+#1 {main}
+  thrown in /home2/madiimgo/public_html/lalalgold.com/apps/add_to_cart.php on line 67
